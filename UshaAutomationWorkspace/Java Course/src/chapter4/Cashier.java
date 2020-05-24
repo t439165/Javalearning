@@ -1,4 +1,4 @@
-package chapter3;
+package chapter4;
 /* Scan the given number of items and tally the cost
 */
 

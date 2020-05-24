@@ -1,4 +1,4 @@
-package chapter3;
+package chapter4;
 
 /* adding twoo numbers and
 stop until dones is mentioned
