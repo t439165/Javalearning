@@ -27,5 +27,6 @@ public class TestScores {
             }
             System.out.println("Average test score for the student" +( i + 1) + " " +  averagescore );
         }
+        scanner.close();
     }
 }
